@@ -1,22 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - 学习学习再学习</title>
-        <link>https://example.org/tags/</link>
+        <link>https://RoocY.github.io/tags/</link>
         <description>Tags - Tag - 学习学习再学习</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 07 Sep 2023 15:42:37 &#43;0800</lastBuildDate><atom:link href="https://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 07 Sep 2023 15:42:37 &#43;0800</lastBuildDate><atom:link href="https://RoocY.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>hugo</title>
-    <link>https://example.org/tags/hugo/</link>
+    <link>https://RoocY.github.io/tags/hugo/</link>
     <pubDate>Thu, 07 Sep 2023 15:42:37 &#43;0800</pubDate>
     <author>沐光飞行</author>
-    <guid>https://example.org/tags/hugo/</guid>
+    <guid>https://RoocY.github.io/tags/hugo/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>前端</title>
-    <link>https://example.org/tags/%E5%89%8D%E7%AB%AF/</link>
+    <link>https://RoocY.github.io/tags/%E5%89%8D%E7%AB%AF/</link>
     <pubDate>Thu, 07 Sep 2023 15:42:37 &#43;0800</pubDate>
     <author>沐光飞行</author>
-    <guid>https://example.org/tags/%E5%89%8D%E7%AB%AF/</guid>
+    <guid>https://RoocY.github.io/tags/%E5%89%8D%E7%AB%AF/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

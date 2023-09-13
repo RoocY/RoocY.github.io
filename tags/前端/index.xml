@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>前端 - Tag - 学习学习再学习</title>
-        <link>https://example.org/tags/%E5%89%8D%E7%AB%AF/</link>
+        <link>https://RoocY.github.io/tags/%E5%89%8D%E7%AB%AF/</link>
         <description>前端 - Tag - 学习学习再学习</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 07 Sep 2023 15:42:37 &#43;0800</lastBuildDate><atom:link href="https://example.org/tags/%E5%89%8D%E7%AB%AF/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 07 Sep 2023 15:42:37 &#43;0800</lastBuildDate><atom:link href="https://RoocY.github.io/tags/%E5%89%8D%E7%AB%AF/" rel="self" type="application/rss+xml" /><item>
     <title>Hello World!-记录使用Hugo过程中碰到的问题</title>
-    <link>https://example.org/posts/hello-world-%E8%AE%B0%E5%BD%95%E9%85%8D%E5%A4%87hugo%E7%9A%84%E8%BF%87%E7%A8%8B/</link>
+    <link>https://RoocY.github.io/posts/hello-world-%E8%AE%B0%E5%BD%95%E9%85%8D%E5%A4%87hugo%E7%9A%84%E8%BF%87%E7%A8%8B/</link>
     <pubDate>Thu, 07 Sep 2023 15:42:37 &#43;0800</pubDate>
     <author>沐光飞行</author>
-    <guid>https://example.org/posts/hello-world-%E8%AE%B0%E5%BD%95%E9%85%8D%E5%A4%87hugo%E7%9A%84%E8%BF%87%E7%A8%8B/</guid>
+    <guid>https://RoocY.github.io/posts/hello-world-%E8%AE%B0%E5%BD%95%E9%85%8D%E5%A4%87hugo%E7%9A%84%E8%BF%87%E7%A8%8B/</guid>
     <description><![CDATA[Hugo工具及基本环境部署 首先，不要依赖别人的部署流程，永远推荐以官方文档为准，以第一手信息为准。 这篇文章仅仅是我个人使用Hugo搭建博客的]]></description>
 </item>
 </channel>
