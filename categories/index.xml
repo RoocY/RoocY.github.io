@@ -3,7 +3,23 @@
         <title>Categories - Category - 学习学习再学习</title>
         <link>https://RoocY.github.io/categories/</link>
         <description>Categories - Category - 学习学习再学习</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 07 Sep 2023 15:42:37 &#43;0800</lastBuildDate><atom:link href="https://RoocY.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 07 Oct 2023 15:51:12 &#43;0800</lastBuildDate><atom:link href="https://RoocY.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Linux</title>
+    <link>https://RoocY.github.io/categories/linux/</link>
+    <pubDate>Sat, 07 Oct 2023 15:51:12 &#43;0800</pubDate>
+    <author>沐光飞行</author>
+    <guid>https://RoocY.github.io/categories/linux/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>后端</title>
+    <link>https://RoocY.github.io/categories/%E5%90%8E%E7%AB%AF/</link>
+    <pubDate>Sat, 07 Oct 2023 15:51:12 &#43;0800</pubDate>
+    <author>沐光飞行</author>
+    <guid>https://RoocY.github.io/categories/%E5%90%8E%E7%AB%AF/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>前端</title>
     <link>https://RoocY.github.io/categories/%E5%89%8D%E7%AB%AF/</link>
     <pubDate>Thu, 07 Sep 2023 15:42:37 &#43;0800</pubDate>
